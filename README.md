@@ -1,5 +1,5 @@
 # Old published projects
-A collection of projects that were so old, I didn't know I should be preserving their source code...
+A collection of projects that were so old, I was young enough that I didn't know I should be preserving their source code...
 Most of these were middle school projects.
 
 The .exe files are all written in Java, targeted at Java 1.6.0.
