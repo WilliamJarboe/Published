@@ -1,3 +1,6 @@
 # Old published projects
 A collection of projects that were so old, I didn't know I should be preserving their source code...
 Most of these were middle school projects.
+
+The .exe files are all written in Java, targeted at Java 1.6.0.
+The .apk files are all targeted to Android, for a S6's screen resolution. The extra space on new screens can actually be used as a safe spot to hide in the bullet hell games...
